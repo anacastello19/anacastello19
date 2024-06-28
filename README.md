@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hola!<br>Soy una programadora junior apasionada por el desarrollo de software y la resolución de problemas. <br>Me gradué como técnica universitaria en programación y tengo experiencia en diversos lenguajes y herramientas, tales como Java, Python, HTML, CSS, JavaScript, Git y SQL. <br>Me considero una persona proactiva, creativa y con ganas de aprender y mejorar continuamente. <br>Me gustaría formar parte de un equipo de trabajo dinámico y colaborativo, donde pueda aportar mis conocimientos y habilidades, así como adquirir nuevos retos y oportunidades de crecimiento.<br>
+Hola!<br>Soy una programadora junior apasionada por el desarrollo de software y la resolución de problemas. <br>Ya graduada de la tacnicatura universitaria en programación, obteniendo experiencia en diversos lenguajes y herramientas, tales como Java, Python, HTML, CSS, JavaScript, Git y SQL. <br>Me considero una persona proactiva, creativa y con ganas de aprender y mejorar continuamente. <br>Me gustaría formar parte de un equipo de trabajo dinámico y colaborativo, donde pueda aportar mis conocimientos y habilidades, así como adquirir nuevos retos y oportunidades de crecimiento.<br>
 
 
 # 💻 Tech Stack:
